@@ -8,8 +8,8 @@
 //initialize starting with 'dummy' data
 var friendList = [
   {
-    fname: 'Jon',
-    lname: 'Finley',
+    fname: 'James',
+    lname: 'Dean',
     profilePic: 'https://avatars3.githubusercontent.com/u/52939363?s=460&v=4',
     scores: [
       "4",

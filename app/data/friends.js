@@ -8,8 +8,9 @@
 //initialize starting with 'dummy' data
 var friendList = [
   {
-    name: 'Jon Finley',
-    profilePic: 'https://avatars3.githubusercontent.com/u/17751317?v=3&s=466',
+    fname: 'Jon',
+    lname: 'Finley',
+    profilePic: 'https://avatars3.githubusercontent.com/u/52939363?s=460&v=4',
     scores: [
       "4",
       "5",
@@ -22,7 +23,25 @@ var friendList = [
       "3",
       "4"
     ]
-  }
+  
+},
+{
+fname: 'Phoebe',
+lname: 'Buffay',
+profilePic: "https://imgix.bustle.com/rehost/2016/9/13/675c9c26-713a-4743-b263-8efff6d12bdd.jpg",
+scores: [
+"5",
+"3",
+"5",
+"2",
+"5",
+"3",
+"2",
+"5",
+"3",
+"2"
+]
+}
 ]
 
 module.exports = friendList;

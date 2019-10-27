@@ -1,3 +1,5 @@
+![Screen shot](app/public/images/SS1.png)
+Index Page
 # friendfinder
 matches friends based similar interest using node-express for routing
 
@@ -8,13 +10,10 @@ Friend Finder app (essentially a dating app but for friends) using Node and Expr
 ## Getting Started
 http://protected-coast-16615.herokuapp.com/
 
-## Screen Shots
 
-![Screen shot](app/public/images/SS1.png)
-Index Page
 
-![Screen shot 2](app/public/images/SS2.png)
-Survey
+![Screen shot 2](app/public/images/SS3.png)
+
 
 ## this app uses
 - Node.js

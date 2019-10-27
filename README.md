@@ -12,7 +12,7 @@ http://protected-coast-16615.herokuapp.com/
 
 
 
-![Screen shot 2](app/public/images/SS3.png)
+![Screen shot 2](app/public/images/SS3.gif)
 
 
 ## this app uses
@@ -22,4 +22,4 @@ http://protected-coast-16615.herokuapp.com/
 
 
 
-* **Jon Finley**  [Jon Finley](hub.com/JonFinley211)
+* **Jon Finley**  [GitHub](hub.com/JonFinley211)

@@ -1,5 +1,6 @@
 ![Screen shot](app/public/images/SS1.png)
-Index Page
+![Screen shot 2](app/public/images/SS3.gif)
+
 # friendfinder
 matches friends based similar interest using node-express for routing
 
@@ -12,7 +13,7 @@ http://protected-coast-16615.herokuapp.com/
 
 
 
-![Screen shot 2](app/public/images/SS3.gif)
+
 
 
 ## this app uses

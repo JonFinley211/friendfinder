@@ -8,11 +8,8 @@ matches friends based similar interest using node-express for routing
 
 Friend Finder app (essentially a dating app but for friends) using Node and Express servers. The user enters the page that leads to a survey. When the user submits the survey, they are matched with a "friend" that has the closest match to their personality.
 
-## Getting Started
-http://protected-coast-16615.herokuapp.com/
-
-
-
+## see it in action
+https://whispering-basin-92756.herokuapp.com/
 
 
 
@@ -23,4 +20,4 @@ http://protected-coast-16615.herokuapp.com/
 
 
 
-* **Jon Finley**  [GitHub](hub.com/JonFinley211)
+* **Jon Finley**  [GitHub](github.com/JonFinley211)
